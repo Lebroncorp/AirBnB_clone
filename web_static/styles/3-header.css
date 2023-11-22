@@ -11,4 +11,7 @@ header {
 	background-position: center left;
 	margin-left: 20px;
 	height: 100%;
+	width: 100px;
+	display: inline-block;
+	vertical-align: middle;
 }
